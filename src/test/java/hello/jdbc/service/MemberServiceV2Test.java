@@ -18,7 +18,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
 
 /**
- * 트랜잭선 - 커넥션 파라미터 전달 방식
+ * 트랜잭션 - 커넥션 파라미터 전달 방식
  */
 @Slf4j
 class MemberServiceV2Test {
